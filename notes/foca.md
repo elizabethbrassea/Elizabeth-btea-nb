@@ -24,6 +24,7 @@ blastn\
 
 como agregar una imagen desde tu computadora:
 
-![picture-water](./img/Pvr.jpg/)
+![picture-water](./img/foca.jpg/)
+
 
 gracias!
